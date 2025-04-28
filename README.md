@@ -12,6 +12,6 @@ be able to do socket programming in C.
 - i3wm user
 
 ### Tech I am good at:
-React, Tailwind CSS, CSS3, HTML5
+React, Tailwind, CSS, HTML
 
 
