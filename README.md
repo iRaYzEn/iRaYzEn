@@ -4,14 +4,6 @@ my time learning how to do so.-->
 
 ## Hey, I am Rayzen. I am currently enrolled in a Computer Science degree, I am interested in computers in general 
 
-- I am currently trying to learn how computers work in great detail and want to
-be able to do socket programming in C.
-
-### Software I use:
-- Linux user
-- Neovim user
-- i3wm user
-
-### Tech I am good at:
-React, Tailwind, CSS, HTML
-
+- Arch linux BTW
+- Neovim BTW
+- i3wm BTW
